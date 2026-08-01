@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f1e7"/>
+  <rect x="52" y="46" width="1096" height="538" rx="28" fill="#fffdf7" stroke="#c7baa5" stroke-width="4"/>
+  <rect x="52" y="46" width="1096" height="22" rx="11" fill="#244d4c"/>
+  <circle cx="100" cy="111" r="23" fill="#d8e6e1" stroke="#244d4c" stroke-width="7"/>
+  <rect x="94" y="100" width="5" height="22" fill="#244d4c"/>
+  <rect x="103" y="94" width="5" height="34" fill="#c7683a"/>
+  <text x="140" y="123" fill="#243132" font-family="Yu Gothic, sans-serif" font-size="32" font-weight="700" letter-spacing="3">音源控え</text>
+  <text x="80" y="188" fill="#3f7771" font-family="Cascadia Mono, monospace" font-size="18" font-weight="700" letter-spacing="4">AUDIO USE LOG</text>
+  <text x="80" y="242" fill="#243132" font-family="Yu Mincho, serif" font-size="46" font-weight="700">使った音に、根拠を添える。</text>
+
+  <rect x="80" y="304" width="202" height="172" rx="12" fill="#29302f" stroke="#151b1a" stroke-width="4"/>
+  <circle cx="108" cy="332" r="9" fill="#65c397" stroke="#17211f" stroke-width="4"/>
+  <text x="130" y="340" fill="#eaf0eb" font-family="Yu Gothic, sans-serif" font-size="22" font-weight="700">案件</text>
+  <rect x="106" y="375" width="148" height="14" rx="7" fill="#78817e"/>
+  <rect x="106" y="407" width="116" height="14" rx="7" fill="#78817e"/>
+
+  <path d="M282 390 C318 390 315 335 350 335" fill="none" stroke="#c7683a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="282" cy="390" r="12" fill="#e8ede8" stroke="#151b1a" stroke-width="5"/>
+  <circle cx="350" cy="335" r="12" fill="#e8ede8" stroke="#151b1a" stroke-width="5"/>
+
+  <rect x="350" y="285" width="240" height="210" rx="12" fill="#29302f" stroke="#151b1a" stroke-width="4"/>
+  <circle cx="380" cy="316" r="9" fill="#65c397" stroke="#17211f" stroke-width="4"/>
+  <text x="403" y="324" fill="#eaf0eb" font-family="Yu Gothic, sans-serif" font-size="22" font-weight="700">音源</text>
+  <rect x="380" y="371" width="16" height="70" fill="#65c397"/>
+  <rect x="408" y="345" width="16" height="96" fill="#65c397"/>
+  <rect x="436" y="389" width="16" height="52" fill="#65c397"/>
+  <rect x="464" y="328" width="16" height="113" fill="#e7ad42"/>
+  <rect x="492" y="361" width="16" height="80" fill="#65c397"/>
+  <rect x="520" y="397" width="40" height="44" rx="6" fill="#426e91"/>
+
+  <path d="M590 390 C628 390 625 335 662 335" fill="none" stroke="#d69a33" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="590" cy="390" r="12" fill="#e8ede8" stroke="#151b1a" stroke-width="5"/>
+  <circle cx="662" cy="335" r="12" fill="#e8ede8" stroke="#151b1a" stroke-width="5"/>
+
+  <rect x="662" y="304" width="202" height="172" rx="12" fill="#29302f" stroke="#151b1a" stroke-width="4"/>
+  <circle cx="691" cy="332" r="9" fill="#e7ad42" stroke="#17211f" stroke-width="4"/>
+  <text x="714" y="340" fill="#eaf0eb" font-family="Yu Gothic, sans-serif" font-size="22" font-weight="700">条件</text>
+  <rect x="690" y="373" width="145" height="18" rx="9" fill="#65c397"/>
+  <rect x="690" y="408" width="112" height="18" rx="9" fill="#e7ad42"/>
+
+  <path d="M864 390 C900 390 897 335 932 335" fill="none" stroke="#6b9bc0" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="864" cy="390" r="12" fill="#e8ede8" stroke="#151b1a" stroke-width="5"/>
+  <circle cx="932" cy="335" r="12" fill="#e8ede8" stroke="#151b1a" stroke-width="5"/>
+
+  <rect x="932" y="304" width="188" height="172" rx="12" fill="#29302f" stroke="#151b1a" stroke-width="4"/>
+  <circle cx="960" cy="332" r="9" fill="#6ea3d0" stroke="#17211f" stroke-width="4"/>
+  <text x="983" y="340" fill="#eaf0eb" font-family="Yu Gothic, sans-serif" font-size="22" font-weight="700">表記</text>
+  <rect x="960" y="373" width="132" height="70" rx="4" fill="#e8ede8" stroke="#65706e" stroke-width="3"/>
+  <line x1="979" y1="386" x2="1074" y2="386" stroke="#65706e" stroke-width="4"/>
+  <line x1="979" y1="401" x2="1055" y2="401" stroke="#65706e" stroke-width="4"/>
+  <line x1="979" y1="416" x2="1065" y2="416" stroke="#65706e" stroke-width="4"/>
+  <text x="80" y="540" fill="#647171" font-family="Yu Gothic, sans-serif" font-size="22">案件  →  音源  →  利用条件  →  クレジット</text>
+</svg>

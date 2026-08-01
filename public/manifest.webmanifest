@@ -1,0 +1,10 @@
+{
+  "name": "音源控え",
+  "short_name": "音源控え",
+  "description": "使った音源と利用条件を端末内で整理する。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e7",
+  "theme_color": "#244d4c",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
